@@ -16,11 +16,23 @@ design, analysis, fabrication, and documentation.
 ---
 
 ## Project Status
-🔄 Currently selecting problem statement — shortlisted 5 from 
-36 industrial problems, under mentor review.
+🔄 Problem statement finalized after mentor review — moving to Literature Review phase.
 
 ## Problem Statement
-To be updated after mentor approval
+**Development of a New Composite Filament for FDM 3D Printing
+Using ML-Based Property Optimization**
+
+A new composite filament will be developed by combining two or
+more already available filaments (such as PLA, ABS, PETG, or
+fiber-reinforced variants). Machine Learning will be applied to
+predict and optimize the mechanical properties of the resulting
+composite — such as tensile strength, flexibility, and print
+quality — based on the blend ratio and print parameters.
+
+**Core areas:**
+- Composite filament development (material blending)
+- FDM 3D printing process
+- ML-based property prediction and optimization
 ```
 ## Folder Structure
 
