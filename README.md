@@ -16,11 +16,15 @@ design, analysis, fabrication, and documentation.
 ---
 
 ## Project Status
-🔄 Problem statement finalized after mentor review — moving to Literature Review phase.
+✅ Zeroth Review Completed — June 2026
+🔄 Currently in Literature Review phase.
 
-## Problem Statement
-**Development of a New Composite Filament for FDM 3D Printing
-Using ML-Based Property Optimization**
+**Topic:** Additive Manufacturing of Composite Material
+and Process Optimization using ML Algorithm
+
+**Panel Suggestion:** Convert this project into a
+research paper publication.
+
 
 A new composite filament will be developed by combining two or
 more already available filaments (such as PLA, ABS, PETG, or
